@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AndroidGroupApp3</string>
+    <string name="app_name">Mini Games</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="chose_a_category">Chose a Category</string>
-    <string name="clicke_here">Clicke Here</string>
+    <string name="choose_a_category">Choose a Category</string>
+    <string name="click_here">Click Here</string>
 
 </resources>
